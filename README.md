@@ -4,7 +4,7 @@
 <!--                    HEADER BANNER                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,30:0d1b3e,60:1a3a8f,100:2255cc&height=220&section=header&text=MD.%20Sabbir%20Hossain%20Alif&fontSize=38&fontColor=e8f4fd&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descAlignY=58&descColor=a8d0f5&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,30:0d1b3e,60:1a3a8f,100:2255cc&height=220&section=header&text=MD.%20Sabbir%20Hossain%20Alif&fontSize=38&fontColor=e8f4fd&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20MongoDB%20%7C%20Express.js%20%F0%9F%87%A7%F0%9F%87%A9&descAlignY=58&descColor=a8d0f5&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -47,28 +47,12 @@ const sabbir = {
 
 <p align="center">
 
-  <a href="mailto:sabbir.web.dp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
   <a href="https://linkedin.com/in/md-sabbir-hossain-alif" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://dev.to/sabbir_hossain_alif" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
-  </a>
-  &nbsp;
   <a href="https://fb.com/sabbirofficial.dev.fb" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-    &nbsp;
-  <a href="https://stackoverflow.com/users/32605757" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.leetcode.com/sabbir-web-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   &nbsp;
   <a href="https://discord.gg/URbRZmax" target="_blank">
@@ -77,6 +61,19 @@ const sabbir = {
   &nbsp;
   <a href="https://x.com/original_sabbir" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  
+  &nbsp;
+  <a href="https://stackoverflow.com/users/32605757" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.leetcode.com/sabbir-web-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  &nbsp;
+  <a href="https://dev.to/sabbir_hossain_alif" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
   </a>
 
 </p>
