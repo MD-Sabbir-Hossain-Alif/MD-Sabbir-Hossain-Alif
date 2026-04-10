@@ -6,16 +6,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,30:0d1b3e,60:1a3a8f,100:2255cc&height=220&section=header&text=MD.%20Sabbir%20Hossain%20Alif&fontSize=38&fontColor=e8f4fd&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descAlignY=58&descColor=a8d0f5&animation=fadeIn" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  PROFILE PICTURE                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<br/>
-
-<img src="https://i.ibb.co.com/gLZfnkSV/profile-pic.png" width="140"/>
-
-<br/>
-
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3b7de8&center=true&vCenter=true&width=620&lines=Hey+there!+I'm+Sabbir+%F0%9F%91%8B;Frontend+Developer+from+Rangpur%2C+Bangladesh;Building+modern+UIs+with+React+%26+Next.js+%F0%9F%9A%80;Passionate+about+clean%2C+pixel-perfect+design+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
@@ -37,8 +27,6 @@
 
 Hi! I'm **Sabbir**, a passionate **Frontend Developer** based in **Rangpur, Bangladesh 🇧🇩**. I love crafting clean, responsive, and modern web interfaces. Over the past year, I've built a solid foundation in HTML, CSS, and JavaScript, and I'm now diving deeper into **React** and **Next.js** to become a full-stack developer.
 
-I believe that _great UI is not just about looking good — it's about feeling right._
-
 ```javascript
 const sabbir = {
     name: "MD. Sabbir Hossain Alif",
@@ -47,11 +35,51 @@ const sabbir = {
     email: "📧 sabbir.web.dp@gmail.com",
     whatsapp: "+8801300386800",
     linkedin: "🔗 linkedin.com/in/md-sabbir-hossain-alif",
-    learning: ["React", "Next.js", "MongoDB", Express.js "Full Stack Dev"],
+    learning: ["React", "Next.js", "TypeScript", "Full Stack Dev"],
     funFact: "Everyone is a winner — they just haven't tried yet. 🏆",
     available: true, // Open to collaborations & opportunities
 };
 ```
+
+---
+
+## 🌐 Find Me Online
+
+<p align="center">
+
+  <a href="mailto:sabbir.web.dp@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/md-sabbir-hossain-alif" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://dev.to/sabbir_hossain_alif" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://fb.com/sabbirofficial.dev.fb" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+    &nbsp;
+  <a href="https://stackoverflow.com/users/32605757" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.leetcode.com/sabbir-web-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/URbRZmax" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/original_sabbir" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+</p>
 
 ---
 
@@ -94,55 +122,13 @@ const sabbir = {
 
 ---
 
-## 🌐 Find Me Online
-
-<p align="center">
-
-  <a href="mailto:sabbir.web.dp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/md-sabbir-hossain-alif" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://dev.to/sabbir_hossain_alif" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://fb.com/sabbirofficial.dev.fb" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-
-<br/><br/>
-
-  <a href="https://stackoverflow.com/users/32605757" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.leetcode.com/sabbir-web-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  &nbsp;
-  <a href="https://discord.gg/URbRZmax" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/original_sabbir" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=md-sabbir-hossain-alif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1b3e&title_color=3b7de8&icon_color=2255cc&text_color=a8d0f5&count_private=true&include_all_commits=true" height="175"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=md-sabbir-hossain-alif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1b3e&title_color=3b7de8&icon_color=2255cc&text_color=a8d0f5&count_private=true&include_all_commits=true" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-sabbir-hossain-alif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1b3e&title_color=3b7de8&text_color=a8d0f5&langs_count=8" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-sabbir-hossain-alif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1b3e&title_color=3b7de8&text_color=a8d0f5&langs_count=8" height="175"/> -->
 
 <br/><br/>
 
@@ -159,7 +145,8 @@ const sabbir = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=md-sabbir-hossain-alif&theme=tokyonight&no-frame=true&margin-w=8&column=7&bg_color=0d1b3e" width="100%"/>
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=md-sabbir-hossain-alif&theme=tokyonight&no-frame=true&margin-w=8&column=7&bg_color=0d1b3e" width="100%"/> -->
+  <p>Not earn yet!</p>
 </div>
 
 ---
