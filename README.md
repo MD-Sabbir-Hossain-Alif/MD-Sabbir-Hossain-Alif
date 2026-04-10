@@ -47,7 +47,7 @@ const sabbir = {
     email: "📧 sabbir.web.dp@gmail.com",
     whatsapp: "+8801300386800",
     linkedin: "🔗 linkedin.com/in/md-sabbir-hossain-alif",
-    learning: ["React", "Next.js", "TypeScript", "Full Stack Dev"],
+    learning: ["React", "Next.js", "MongoDB", Express.js "Full Stack Dev"],
     funFact: "Everyone is a winner — they just haven't tried yet. 🏆",
     available: true, // Open to collaborations & opportunities
 };
