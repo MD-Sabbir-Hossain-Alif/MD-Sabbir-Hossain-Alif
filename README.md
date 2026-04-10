@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://github.com/md-sabbir-hossain-alif/md-sabbir-hossain-alif/blob/main/sabbir-2.png?raw=true" width="140" style="border-radius:50%;border:4px solid #2255cc;"/>
+<img src="https://i.ibb.co.com/k6rVFXgx/sabbir-2.png?raw=true" width="140" style="border-radius:50%;border:4px solid #2255cc;"/>
 
 <br/>
 
